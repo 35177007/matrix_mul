@@ -1,3 +1,0 @@
-﻿  Assembling 2017061910刘陆.asm...
-2017061910刘陆.obj : warning LNK4258: 指令“/ENTRY:main@0”与开关“/ENTRY:main”不兼容；已忽略
-  Project.vcxproj -> C:\Users\LiuLu\Desktop\liulu\Debug\Project.exe
